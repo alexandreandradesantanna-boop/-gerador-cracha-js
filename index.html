@@ -12,6 +12,12 @@
         let anoNascimento = prompt("Digite seu ano de nascimento:");
 
         let alunoAtivo = confirm("É aluno ativo da instituição?");
+
+        let ano = Number(anoNascimento);
+
+        let anoAtual = new Date().getFullYear();
+
+        let idade = anoAtual - ano;
     </script>
 </body>
 </html>
