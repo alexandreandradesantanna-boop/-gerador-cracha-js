@@ -1,2 +1,1 @@
-# -gerador-cracha-js
- gerador-cracha-js
+O Objetivo do projeto é de aplicar os conceitos das unidades 1 e 5 da disciplina, construindo um HTML básico e utilizando o JavaScript para entrada de dados, conversão de tipos, manipulação de texto (strings) e saída formatada na console.
